@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-google-genai
+faiss-cpu
+python-dotenv
+langdetect
+pypdf
+numpy
+tenacity>=8.0.0
